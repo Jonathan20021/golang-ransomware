@@ -2,6 +2,8 @@
 
 >some do not seem to understand that this is not even close to being complete, and manage to build a system that processes payments for this then you are probably able to write this on their own. I could say that this was a program that encrypts some of your files and stores it on a server and you would not bother
 
+Contribution with Jonathan Sandoval Security Engineer at Microsoft
+
 This project was written to show how easy it is to create extremely malicious code.
 
 Ransomware is designed to take your most loved files hostage demanding large amounts of money to unlock them.
